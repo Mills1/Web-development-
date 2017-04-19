@@ -1,0 +1,22 @@
+.top-bar{
+  color:#49080c;
+  padding: 40% inherit;
+  border-top: 50%
+}
+body{
+  background-color: #4286f4;
+  color: red;
+}
+p {
+  background-color: #4286f4;
+  color: blue;
+ padding: 30%;
+ border: 10% solid #4286f4;
+
+}
+ul{
+  background-color:#082149;
+  padding:30%
+border: 10% solid;
+border-style: dotted;
+}
